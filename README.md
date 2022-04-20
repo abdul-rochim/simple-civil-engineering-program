@@ -1,2 +1,2 @@
-# simple_civil_engineering_program
-simple program in structural engineering
+#### simple_program_in_civil_eng
+about Civil Structural Engineering
